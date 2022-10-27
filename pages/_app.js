@@ -1,4 +1,8 @@
+import 'bootstrap/dist/css/bootstrap.css'
 import '../styles/globals.css'
+import '../styles/style.css'
+// add bootstrap css 
+
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
