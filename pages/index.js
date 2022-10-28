@@ -11,12 +11,12 @@ export default function Home() {
         <div className='row  d-flex justify-content-center'>
 
           <div className='col-md-3 col-sm-6'>
-            <Link href="/reporteva005" legacyBehavior>
+            <Link href="/posts" legacyBehavior>
               <a className='btn'>
                 <div className='card'>
                   <div className="card-body">
                     <p className="cardtext">
-                      EVA005 : รายงานแสดงจำนวนรูปภาพที่อัพโหลดใบปิดงานติดตั้ง
+                      1
                     </p>
                   </div>
                 </div>
@@ -31,7 +31,7 @@ export default function Home() {
                 <div className='card'>
                   <div className="card-body">
                     <p className="cardtext">
-                      EVA005 : รายงานแสดงจำนวนรูปภาพที่อัพโหลดใบปิดงานติดตั้ง
+                      2
                     </p>
                   </div>
                 </div>
@@ -46,7 +46,7 @@ export default function Home() {
                 <div className='card'>
                   <div className="card-body">
                     <p className="cardtext">
-                      EVA005 : รายงานแสดงจำนวนรูปภาพที่อัพโหลดใบปิดงานติดตั้ง
+                      3
                     </p>
                   </div>
                 </div>
@@ -61,7 +61,7 @@ export default function Home() {
                 <div className='card'>
                   <div className="card-body">
                     <p className="cardtext">
-                      EVA005 : รายงานแสดงจำนวนรูปภาพที่อัพโหลดใบปิดงานติดตั้ง
+                      4
                     </p>
                   </div>
                 </div>
@@ -76,7 +76,7 @@ export default function Home() {
                 <div className='card'>
                   <div className="card-body">
                     <p className="cardtext">
-                      EVA005 : รายงานแสดงจำนวนรูปภาพที่อัพโหลดใบปิดงานติดตั้ง
+                      5
                     </p>
                   </div>
                 </div>
